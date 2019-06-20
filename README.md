@@ -4,3 +4,4 @@ Operation of the microcontroller with the code "working UART.asm" is the recepti
 Operation of the microcontroller with the code " first Letter.asm" is the reception of the data from the "working UART.asm", the display on a led matrix 8x8 and transfer bytes for Atmega32 code " nextLetter.asm"
 Operation of the microcontroller with the code " nextLetter.asm" is the reception of the data from the "first Letter.asp", display on 8x8 led matrix and transfer to the following microcontrollers.
 
+![](20180126_185126.jpg)
