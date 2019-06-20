@@ -5,3 +5,4 @@ Operation of the microcontroller with the code " first Letter.asm" is the recept
 Operation of the microcontroller with the code " nextLetter.asm" is the reception of the data from the "first Letter.asp", display on 8x8 led matrix and transfer to the following microcontrollers.
 
 ![](20180126_185126.jpg)
+![](scheme.jpg)
